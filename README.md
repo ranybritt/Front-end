@@ -19,18 +19,19 @@
 ---
 ## Projetos Desenvolvidos
 
-Projeto e as tecnologia
-Classificação de Animes (HTML)
-Site Oficial do Discord (HTML)
-Página de Produto (Loja Virtual) (HTML + CSS)
-Site Anna Bella (HTML + CSS)
-Site do Medium (HTML + CSS)
-Barra de Navegação Vertical (HTML + CSS)
-Página Inicial do Zoom (HTML + CSS (Grid + Flexbox))
-Álcool ou Gasolina (JavaScript)
-Frases Motivacionais (JavaScript)
-Site da Adidas (Figma + HTML + CSS)
-AirBnb Clone (React + Next.js + Tailwind)
+| Projeto | Tecnologias |
+|----------|--------------|
+| Classificação de Animes | HTML |
+| Site Oficial do Discord | HTML |
+| Página de Produto (Loja Virtual) | HTML + CSS |
+| Site Anna Bella | HTML + CSS |
+| Site do Medium | HTML + CSS |
+| Barra de Navegação Vertical | HTML + CSS |
+| Página Inicial do Zoom | HTML + CSS (Grid + Flexbox) |
+| Álcool ou Gasolina | JavaScript |
+| Frases Motivacionais | JavaScript |
+| Site da Adidas | Figma + HTML + CSS |
+| AirBnb Clone | React + Next.js + Tailwind |
 
 ## Ferramentas Utilizadas
 
