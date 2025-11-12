@@ -1,6 +1,6 @@
 # Front-end
 
-# Domine Frontend — 10 Projetos Reais com HTML, CSS, JavaScript, TypeScript, React, Tailwind e Next.js
+## Domine Frontend 10 Projetos Reais com HTML, CSS, JavaScript, TypeScript, React, Tailwind e Next.js
 
 > Curso completo de desenvolvimento Front-end com ênfase em prática.  
 > Instrutores: **Jamilton Damasceno** e **Jorge Sant Ana**  
